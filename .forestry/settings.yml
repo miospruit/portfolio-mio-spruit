@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5e7b572b3e29fb00142a2cf8/webhook/forestry
 sections:
+- type: directory
+  path: ''
+  label: Edit content
+  create: all
+  match: "**/*"
 - type: document
   path: site-metadata.json
   label: Config
