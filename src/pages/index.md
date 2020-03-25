@@ -6,12 +6,12 @@ sections:
   content: "Lorem ipsum dolor sit magna consectetur  \nadipiscing elit. Duis dapibus
     rutrum facilisis.  \nClass aptent taciti sociosqu torquent."
   actions:
-  - label: Get Started
-    url: "/generic"
-    is_scrolly: false
+  - label: Contact Me
+    url: "#contact"
+    is_scrolly: true
     is_primary: false
-  title: Reflex
-  img_path: images/pic01.jpg
+  title: Mio Spruit
+  img_path: "/images/huawei_matebook_x_pro_wall_technastic_02.jpg"
   component: Intro
 - type: features
   template: features
